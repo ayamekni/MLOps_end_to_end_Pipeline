@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/782708467129323551/1f825b24b08445f8b160971d3dfda423/artifacts
+end_time: 1748170875457
+entry_point_name: ''
+experiment_id: '782708467129323551'
+lifecycle_stage: active
+run_id: 1f825b24b08445f8b160971d3dfda423
+run_name: bold-fly-258
+run_uuid: 1f825b24b08445f8b160971d3dfda423
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748170771413
+status: 3
+tags: []
+user_id: eya
