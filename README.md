@@ -235,11 +235,6 @@ project/
 
 ---
 
-## Author
-
-* Tasnim Mtir
-
----
 
 ## Acknowledgments
 
@@ -254,7 +249,4 @@ This project leverages the following technologies:
 * [Make](https://www.gnu.org/software/make/)
 * [MLflow](https://mlflow.org/)
 
----
 
-# Hi-You
-# sarra
